@@ -1,1 +1,0 @@
-git filter-repo -f --index-filter 'git rm --cached --ignore-unmatch unwanted-file.txt'
